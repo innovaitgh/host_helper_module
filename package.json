@@ -1,0 +1,13 @@
+{
+  "name": "host-helper",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "type": "module",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
